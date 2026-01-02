@@ -60,6 +60,8 @@ Git, GitHub Actions, Pandas, NumPy, Selenium
 
 - LinkedIn: (https://www.linkedin.com/in/sanidhya-vijaivargia-81060417b)  
 - X (Twitter): (https://x.com/SanidhyaVijaiv2)
+- Contact Number : 6376691348
+- Email : sanidhyavijay18@gmail.com
 
 ---
 
