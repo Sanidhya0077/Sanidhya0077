@@ -1,6 +1,6 @@
 ## Sanidhya Vijaivargia
 
-Software Engineer with ~3.5 years of experience building scalable backend services, cloud-native APIs, and modern web applications.
+Software Engineer with 3.5 years of experience building scalable backend services, cloud-native APIs, and modern web applications.
 
 I focus on writing clean, maintainable systems with strong fundamentals in data structures, system design, and performance optimization.
 
