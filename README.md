@@ -1,5 +1,24 @@
-# 💫 About Me:
-## Hi there 👋 I'm Sanidhya<br><br>🔭 Building scalable products using **Python, AWS, and JavaScript**  <br>👯 Open to collaborating on **Open Source projects** in **backend, cloud, and developer tooling**  <br>🤝 Looking to learn and grow in **system design, distributed systems, and cloud scalability**  <br>🌱 Currently diving deep into **FastAPI, AWS architecture, and high-performance backend systems**  <br>💬 Ask me about **Python, APIs, backend engineering, DSA, and real-world system design**  <br>⚡ Fun fact: I love breaking down complex systems and rebuilding them better ⚙️<br>
+## About Me
+
+Hi, I'm **Sanidhya Vijaivargia** — a Software Engineer focused on building scalable backend systems and cloud-native applications.
+
+- Building production-grade systems using **Python, AWS, and JavaScript**
+- Interested in **backend engineering, cloud architecture, and developer tooling**
+- Actively improving skills in **system design, distributed systems, and scalability**
+- Currently working with **FastAPI, AWS architecture, and high-performance APIs**
+- Strong foundation in **Data Structures, Algorithms, and API design**
+
+## What I Can Help With
+
+- Python & Backend Engineering  
+- REST APIs & System Design  
+- Cloud Architecture (AWS)  
+- Performance optimization & scalability  
+
+## Fun Fact
+
+I enjoy breaking down complex systems and rebuilding them in simpler, more scalable ways.
+
 
 
 ## 🌐 Socials:
