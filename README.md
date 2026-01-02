@@ -62,6 +62,7 @@ Git, GitHub Actions, Pandas, NumPy, Selenium
 - X (Twitter): (https://x.com/SanidhyaVijaiv2)
 - Contact Number : 6376691348
 - Email : sanidhyavijay18@gmail.com
+- Resume Link : https://drive.google.com/drive/home?dmr=1&ec=wgc-drive-hero-goto
 
 ---
 
