@@ -58,7 +58,7 @@ Git, GitHub Actions, Pandas, NumPy, Selenium
 
 ## Contact
 
-- LinkedIn: (https://www.linkedin.com/in/sanidhya-vijaivargia-81060417b/?skipRedirect=true)  
+- LinkedIn: (https://www.linkedin.com/in/sanidhya-vijaivargia-81060417b)  
 - X (Twitter): (https://x.com/SanidhyaVijaiv2)
 
 ---
