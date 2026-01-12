@@ -1,8 +1,6 @@
 ## Sanidhya Vijaivargia
 
-Software Engineer with 3.5 years of experience building scalable backend services, cloud-native APIs, and modern web applications.
-
-I focus on writing clean, maintainable systems with strong fundamentals in data structures, system design, and performance optimization.
+Software Engineer with 3.5+ years of experience building production-grade, scalable web systems using Python and React. Strong in system thinking, clean architecture, and ownership-driven development, with a proven ability to communicate clearly, collaborate across teams, and deliver reliable, high-performance applications. Actively builds and ships side projects with open-source code on GitHub.
 
 ---
 
