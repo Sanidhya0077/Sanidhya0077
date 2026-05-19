@@ -1,6 +1,6 @@
 ## Sanidhya Vijaivargia
 
-Software Engineer with 4 years of experience building production-grade, scalable web systems using Python and React. Strong in system thinking, clean architecture, and ownership-driven development, with a proven ability to communicate clearly, collaborate across teams, and deliver reliable, high-performance applications. Actively builds and ships side projects with open-source code on GitHub.
+Software Engineer with 4 years of experience building production-grade, scalable AI systems using Python and React. Specialized in agentic pipeline design and retrieval-augmented generation (RAG) — including LLM orchestration, vector search, embedding strategies, and multi-agent architectures. Strong in clean system design and end-to-end ownership, from chunking and indexing strategies through to evaluation, latency optimization, and reliable deployment. Communicates clearly across teams, ships iteratively, and actively publishes open-source AI tooling on GitHub.
 
 ---
 
