@@ -11,6 +11,7 @@ Software Engineer with 4 years of experience building production-grade, scalable
 - Working on **scalable system design**, reliability, and performance
 - Building frontend interfaces using **React** when needed
 - Writing production-ready code with a focus on clarity and correctness
+- Building and deploying RAG pipelines for AI-powered search and retrieval applications
 
 ---
 
